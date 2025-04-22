@@ -1,0 +1,8 @@
+*.log
+.idea
+.sass-cache
+.tmp
+dist
+node_modules
+secure-config.js
+.DS_Store

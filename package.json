@@ -1,0 +1,29 @@
+{
+  "name": "amiralindsey.com",
+  "version": "0.0.1",
+  "description": "Amira's website",
+  "private": false,
+  "domains": [
+    "amiralindsey.com",
+    "www.amiralindsey.com"
+  ],
+  "subdomain": "amiralindsey",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "cookie-parser": "^1.3.3",
+    "express": "^4.6.1",
+    "express-session": "^1.6.5",
+    "morgan": "^1.2.3",
+    "q": "^1.0.1",
+    "serve-favicon": "^2.0.1",
+    "serve-static": "^1.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-load-plugins": "^2.0.8"
+  },
+  "engines": {
+    "node": "23.x"
+  }
+}
